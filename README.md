@@ -4,11 +4,16 @@
 About GrivoTech
 GrivoTech is an online 24/7 Grievance Redressal System that is governed and conrolled by Education Department, Government of Andhra Pradesh. This system came into effect from August 1, 2020.
                   
-      GrivoTech facilitates almost all Colleges in Andhra Pradesh, India. We are associated with Governemnt Colleges, Deemed Universities, Autonomous Institutes, Private College, covering the entire state. We here aims to provide the fastest and safest way to solve the Grievance(s). The Head authority of our system is Chief Secretary, Education Department, Govt of Andhra Pradesh.
+      GrivoTech facilitates almost all Colleges in Andhra Pradesh, India.
+      We are associated with Governemnt Colleges, Deemed Universities, Autonomous Institutes, Private College, covering the entire state.
+      We here aims to provide the fastest and safest way to solve the Grievance(s).
+      The Head authority of our system is Chief Secretary, Education Department, Govt of Andhra Pradesh.
+      
                   
                   
   How to Use
   We aim to provide you the comfort, Student while filing the grievance, Faculty and College while solving the grievance, and Admin/Head while reviewing and keeping track of the     entire system day-to-day.
+  
      Steps to register, view and track Grieavnce(s)
      Step 1:Login as Student [Registration required for first time user
      Step 2:Go to 'Register New Grievance' section
