@@ -1,5 +1,4 @@
 
-# -KB220-_-SAMBAN-
 
 About GrivoTech
 GrivoTech is an online 24/7 Grievance Redressal System that is governed and conrolled by Education Department, Government of Andhra Pradesh. This system came into effect from August 1, 2020.
