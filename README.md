@@ -23,10 +23,11 @@
 **Steps to View, Solve, and update Grieavnce(s):**
 * Step 1:Login as College [College will be registered once only.
 * Step 2:Go to 'Grievance' section.<br>
-* Step 3:Faculties will open their respective Grievance department.<br>
+* Step 3:Faculties will open their respective Grievance department.
 * Step 4:They will update status, provide Review to students from here.
 * Step 5:</u> Keep Update college Profile. Update profile on as per the requirement. Faculties should provide their details, and changes should be made, if required.
                 
+**Complete Flow of Grivotech-Grievance Refressal System**
 ![flow (1) (4) (1) (2) (1)](https://user-images.githubusercontent.com/60965420/201518084-b803857a-90eb-430c-81f4-ce9c2d5c6dec.png)
 
 ![bird-view](https://user-images.githubusercontent.com/60965420/201518162-5a774e4d-20c2-48ba-9d88-d25091955f7b.png)
